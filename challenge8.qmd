@@ -1,0 +1,18 @@
+---
+title: "DACSS 601 Challenge 8"
+author: "Shreya Birthare"
+description: "Challenge 8 Submission"
+date: "12/15/2023"
+format:
+  html:
+    df-print: paged
+    css: "styles.css"
+    embed-resources: true
+    self-contained-math: true
+---
+
+## Challenge 8
+
+What was the last movie you watched in a theater?
+
+Answer: Rocky Rani Ki Prem Kahani
